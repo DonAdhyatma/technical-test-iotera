@@ -136,6 +136,9 @@ export default function LoginPage() {
           <p className="text-center text-xs text-gray-400 mt-6">
             Iotera Dashboard Admin © {new Date().getFullYear()}
           </p>
+          <p className="text-center text-xs text-gray-400 mt-2">
+            Created by Danni Adhyatma Rachman
+          </p>
         </div>
       </div>
     </div>
