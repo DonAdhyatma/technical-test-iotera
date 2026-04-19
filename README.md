@@ -84,7 +84,6 @@ POST https://api-serverless.iotera.io/1000000021/data
 ## 📁 Struktur Proyek
  
 ```
-.
 ├── src/
 │   ├── app/
 │   │   ├── dashboard/          # Halaman dashboard (protected route)
