@@ -1,12 +1,12 @@
 # IOTERA Admin Dashboard
  
-> Technical Test – Fullstack Developer (2026)
+> Technical Test Danni Adhyatma Rachman – Fullstack Developer (2026)
  
 Admin dashboard berbasis web untuk monitoring transaksi vending machine dan log device secara real-time.
  
 ## 🌐 Live Demo
  
-**URL:** [https://technical-test-iotera.vercel.app/dashboard](https://technical-test-iotera.vercel.app/dashboard)
+**URL:** [https://technical-test-iotera.vercel.app](https://technical-test-iotera.vercel.app)
  
 | Field    | Value      |
 |----------|------------|
